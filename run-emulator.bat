@@ -1,1 +1,1 @@
-C:\Users\Tom\gb-game\bgb\bgb.exe
+bgb\bgb.exe
